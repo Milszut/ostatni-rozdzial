@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://ostatnirozdzial.pl/sitemap.xml
